@@ -1,0 +1,260 @@
+{
+  "basics": {
+    "name": "Saad Kabir",
+    "label": "Web Developer, Buyer Cloud, Rubicon Project",
+    "phone": "",
+    "website": "",
+    "summary": {
+      "about": "Comfortable working in a team environment with minimal direction or supervision, vast troubleshooting capabilities obtained via demanding work settings and technical background. Able to multi-task and work in a deadline driven environment, familiar with Agile Software Development methodologies. ",
+      "title": "Few highlights of skills achieved through diverse work environments,",
+      "skills": [
+        "Start-up experience; desire to work in a fast-paced start-up environment. ",
+        "Experience working in agile development teams. ",
+        "Eager to learn, and open to exploring new technologies.",
+        "Experience with Java Spring framework, Python/Django framework, PHP, Drupal and Laravel framework. ",
+        "Javascript, jQuery, D3.js and AngularJs experience. ",
+        "Proficient in mysql and postgresql.",
+        "Comfortable using  Jira, Trello, git and bitbucket."
+      ]
+    },
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Toronto",
+      "province": "Ontario",
+      "country": "Canada"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Rubicon Project",
+      "position": "Full Stack Developer, Buyer Cloud",
+      "website": "",
+      "startDate": "2015-04-01",
+      "summary": [
+        "Worked as full stack developer on Rubicon RPEB dashboard, backend written in Java/Spring MVC and front-end was in AngularJs.",
+        "Created new RESTful endpoints to expose reporting data for various optimization purposes.",
+        "Worked on a Central Billing System to integrate Chango and Rubicon Invoicing. Wrote integration scripts in Django that were run as management commands and generated CSV files. Those files were then consumed by Rubicon billing system.",
+        "Constructed postgresql materialized views to collect Chango data and send that data for reporting purposes to Rubicon.",
+        "Wrote java unit and functional tests to test all the new features.",
+        "Added new reporting fields and optimized old sql queries.",
+        "Contributed in re-writing parts of legacy system API.",
+        "Contributed to ongoing bug fixes."
+      ],
+      "highlights": []
+    },
+    {
+      "company": "Chango",
+      "position": "Django Web Developer",
+      "website": "",
+      "startDate": "2015-02-01",
+      "summary": [
+        "Started as a full stack developer on the main Dashboard app using python/django on the backend with postgresql database.",
+        "Connected Salesforce API to dashboard reporting to capture new opportunities from salesforce and sync them into dashboard.",
+        "Improved the new accounts onboarding pipeline. Was lead in planning, development and user testing of the new workflow.",
+        "Was lead for the IO workflow improvement feature. It involved requirement gathering with the parties involved, planning new feature improvements, implementing/refactoring  new and existing codebases.",
+        "Under the guidance of product manager implemented features for importing and updating accounts and opportunities in Salesforce.",
+        "Created a custom reporting system for billing purposes in python/django. Reporting scripts were run as django management commands.",
+        "Briefly worked with AWS to store profile pictures of users and account logos. Also used AWS for document storage.",
+        "Created data migrations for new features.. Helped database team deploy those migrations.",
+        "Rewrote parts of old legacy application in django.",
+        "Wrote unit and acceptance tests using pytest.",
+        "Helped out with user testing of the dashboard webapp.",
+        "Got acquired by Rubicon Project Inc in April 2015."
+      ],
+      "highlights": [],
+      "endDate": "2015-04-01"
+    },
+    {
+      "company": "Appnovation Technologies",
+      "position": "Full Stack Developer",
+      "website": "",
+      "startDate": "2014-05-01",
+      "summary": [
+        "Worked on Drupal 6 and Drupal 7 related projects.",
+        "Followed Agile Software Development Methodologies.",
+        "Used Git as the primary repository for backup and migration of content for different environments. ",
+        "Developed custom Drupal modules in php as per client requirements.",
+        "Spoke at Drupal Camp and other Drupal related events.",
+        "Wrote blog posts and other R&D related technical documentation.",
+        "Contributed to team innovation initiatives.",
+        "Contributed to internal technology projects and providing ideas and efforts toward finding appropriate solutions to various problems."
+      ],
+      "highlights": [],
+      "endDate": "2015-02-01"
+    },
+    {
+      "company": "Scoreven (http://www.scoreven.com)",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2013-11-01",
+      "summary": [
+        "Developed front-end Ajax based login system for their WordPress site.",
+        "Created a user dashboard where users can see their favourite posts and update their info.",
+        "Connected their website to different social media platforms for post sharing.",
+        "Created functionality for users to customize their cards and share them socially."
+      ],
+      "highlights": [],
+      "endDate": "2014-03-01"
+    },
+    {
+      "company": "Powered by Search",
+      "position": "Full Stack Developer Intern",
+      "website": "",
+      "startDate": "2013-05-01",
+      "summary": [
+        "Maintained the company website. Did various code maintenance upgrades on the website.",
+        "Helped in coding of the landing pages for different clients.",
+        "Developed a portal where writers can sign in and submit articles using php laravel framework.",
+        "Integrated Hubspot and Pipedrive API to communicate customer conversion metrics.",
+        "Used Geckoboard and Tickspot API to display employee time tracking.",
+        "Helped SEO’s with their client’s web development work.",
+        "Worked with PHP Laravel framework and Google Webmaster Tools."
+      ],
+      "highlights": [],
+      "endDate": "2013-08-01"
+    },
+    {
+      "company": "University of Toronto",
+      "position": "Network Survey Assistant",
+      "website": "",
+      "startDate": "2008-06-01",
+      "summary": [
+        "Developed technical network skills in organizing the networking database at the University of Toronto at Scarborough.",
+        "Showed flexible work habits and detail-oriented skills in performing ad-hoc roles.",
+        "Improved network and infrastructure security by locating and identifying unauthorized wireless networks around the campus."
+      ],
+      "highlights": [],
+      "endDate": "2008-08-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Humber College",
+      "area": "Computer Programming",
+      "studyType": "Diploma",
+      "startDate": "2012-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2014-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "4",
+      "keywords": []
+    },
+    {
+      "name": "Spring Framework",
+      "level": "2",
+      "keywords": []
+    },
+    {
+      "name": "AngularJS",
+      "level": "3",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "4",
+      "keywords": []
+    },
+    {
+      "name": "Django",
+      "level": "3",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "3",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "3",
+      "keywords": []
+    },
+
+    {
+      "name": "Javascript",
+      "level": "3",
+      "keywords": []
+    },
+    {
+      "name": "Git/Bitbucket",
+      "level": "3",
+      "keywords": []
+    },
+
+    {
+      "name": "Laravel 4 PHP Framework",
+      "level": "2",
+      "keywords": []
+    },
+    {
+      "name": "Cascading Style Sheets (CSS)",
+      "level": "3",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "2",
+      "keywords": []
+    },
+    {
+      "name": "REST API",
+      "level": "3",
+      "keywords": []
+    },
+    
+    {
+      "name": "WordPress",
+      "level": "3",
+      "keywords": []
+    },
+    {
+      "name": "Drupal",
+      "level": "3",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "3",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native or bilingual"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Mobile Development",
+      "keywords": []
+    },
+    {
+      "name": "Robotics - Drones",
+      "keywords": []
+    },
+    {
+      "name": "Motorcycles",
+      "keywords": []
+    },
+    {
+      "name": "Soccer",
+      "keywords": []
+    },
+    {
+      "name": "Squash",
+      "keywords": []
+    },
+    {
+      "name": "Anything related to Coffee",
+      "keywords": []
+    }
+  ]
+}
